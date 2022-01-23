@@ -1,3 +1,2 @@
-[访问网站](https://nimbus2k.vercel.app/)
+[Clike here to make your blog website](https://github.com/craigary/nobelium#quick-start)
 
-[项目参考](https://github.com/craigary/nobelium#quick-start)
