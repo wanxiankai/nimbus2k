@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Nimbus2k',
-  author: 'Kevin Wan',
+  author: 'xk_wan',
   email: 'wanxiankai@126.com',
   link: 'https://nimbus2k.vercel.app',
   description: 'This gonna be an awesome website.',
